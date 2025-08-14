@@ -22,7 +22,7 @@
 - [Package Management](#package-management)
 - [AI-Native Tasks](#ai-native-tasks)
 - [Context](#context)
-- [Fun \& Experimental](#fun--experimental)
+- [Fun & Experimental](#fun--experimental)
 - [Start from Scratch](#start-from-scratch)
 - [Contributing](#contributing)
 
@@ -51,6 +51,18 @@
 - `// Implement a data class for this dictionary structure...`
   <sub>Useful for Python projects moving towards more structured data handling with `dataclasses` or Pydantic.</sub>
 
+- `// Generate a client SDK for this OpenAPI specification...`
+  <sub>For projects that need to consume external APIs or provide their own.</sub>
+- `// Create a RESTful API endpoint for managing {resource}...`
+  <sub>For building new backend services or microservices.</sub>
+- `// Refactor this code to follow the {specific design pattern, e.g., Strategy Pattern}...`
+  <sub>To improve code structure and flexibility.</sub>
+- `// Extract this logic into a separate utility function/class...`
+  <sub>To promote reusability and reduce code duplication.</sub>
+- `// Convert this class component to a functional component with hooks in React...`
+  <sub>For modernizing React codebases.</sub>
+- `// Implement a reusable React component for {UI element} with accessibility in mind...`
+  <sub>For building accessible and maintainable UI.</sub>
 
 
 ## Debugging
@@ -76,6 +88,11 @@
 - `// Add print statements to trace the execution flow of this Python script...`
   <sub>For debugging complex Python scripts or understanding unexpected behavior.</sub>
 
+- `// Optimize this function for memory usage...`
+  <sub>For computationally intensive applications or long-running processes.</sub>
+- `// Profile this code and suggest performance bottlenecks...`
+  <sub>To identify and resolve performance issues in critical code paths.</sub>
+
 
 ## Documentation
 
@@ -91,6 +108,10 @@
 - `// Generate Sphinx-style docstrings for this Python module/class/function...`
   <sub>Ideal for Python projects using Sphinx for documentation generation.</sub>
 
+- `// Explain the concept of {design pattern} and provide a code example...`
+  <sub>For understanding software design principles.</sub>
+- `// Summarize the key differences between {technology A} and {technology B}...`
+  <sub>For making technology choices or understanding trade-offs.</sub>
 
 
 ## Testing
@@ -117,7 +138,6 @@
   <sub>For Python projects using Pytest and needing robust mocking for testing.</sub>
 
 
-
 ## Package Management
 
 - `// Upgrade my linter and autofix breaking config changes`
@@ -135,6 +155,10 @@
 - `// Set up Renovate or Dependabot for auto-updates`
   <sub>Best for active projects with CI/CD.</sub>
 
+- `// Configure Prettier for consistent code formatting in my JavaScript project...`
+  <sub>For maintaining code style consistency.</sub>
+- `// Set up a local development environment for {framework, e.g., Django} with Docker Compose...`
+  <sub>For streamlining local development setup.</sub>
 
 
 ## AI-Native Tasks
@@ -161,6 +185,28 @@
   <sub>For optimizing performance in computationally intensive Python applications.</sub>
 
 
+## Security
+- `// Scan this codebase for common security vulnerabilities (e.g., XSS, SQL injection)...`
+  <sub>For web applications and APIs to improve security posture.</sub>
+- `// Help me implement secure authentication and authorization for my API...`
+  <sub>For backend development requiring robust security measures.</sub>
+
+
+## Database Management
+- `// Design a database schema for {application feature}...`
+  <sub>For new projects or when adding significant new features.</sub>
+- `// Write a SQL query to find {specific data pattern}...`
+  <sub>For data analysis or complex data retrieval tasks.</sub>
+- `// Generate a migration script to add {new column} to {table}...`
+  <sub>For managing database schema evolution in Python/Node.js projects.</sub>
+
+
+## DevOps & CI/CD
+- `// Set up a GitHub Actions workflow to build and test my Node.js project...`
+  <sub>For automating build and test processes.</sub>
+- `// Configure Dockerfile for my Python application...`
+  <sub>For containerizing applications.</sub>
+
 
 ## Context
 
@@ -169,7 +215,6 @@
 
 - `// Summarize all changes in the last 7 days`
   <sub>Catching up after time off.</sub>
-
 
 
 ## Fun & Experimental
@@ -208,7 +253,6 @@
 
 - `// I want to build a web scraper—start me off`
   <sub>Data scraping or automation tools using Python/Node.</sub>
-
 
 
 ## Contributing
